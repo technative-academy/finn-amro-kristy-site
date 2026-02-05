@@ -12,12 +12,12 @@
   box-shadow: var(--box-shadow);
 }
 
-.main img {
+.main__image {
   height: 20rem;
 }
 
 @media (max-width: 800px) {
-  .main img {
+  .main__image {
     height: 10rem;
   }
 }
