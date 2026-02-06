@@ -18,3 +18,9 @@
    - Informative About page that helpfully reminds users of the consequences of their actions
 3. **Appropriate Styling** 🔥
    - A header design that dances and glows with all the colours of a forest fire
+
+## Screenshots 📸
+
+![Home page](images/showcase1.png)
+
+![Ask page](images/showcase2.png)
